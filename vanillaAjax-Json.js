@@ -11,7 +11,7 @@ else  if (window.ActiveXObject)      //  Internet Explorer
 // DOM element recever
 
 let demo = document.getElementById(/*id */)
-let link = document.getElementById(/*triger */)
+let link = document.getElementById(/*Target */)
 
 // event
 link.addEventListener( /*event */ (e) => {
