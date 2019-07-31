@@ -29,4 +29,3 @@ link.addEventListener( /*event */ (e) => {
     xhr.responseType = "json"
     xhr.send( /*prams if needed */ )
 })
-JSON
